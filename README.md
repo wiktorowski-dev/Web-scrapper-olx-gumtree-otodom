@@ -27,4 +27,4 @@ This application is directly commissioned by my client and it's protected by cop
  
  Classes UML diagram
  
-![alt text](https://github.com/wiktorowski-dev/Web-scrapper-olx-gumtree-otodom-WS1/blob/master/files/scrapper%20gumtree%20olx%20otodom.png?raw=true)
+![alt text](https://github.com/wiktorowski-dev/Web-scrapper-olx-gumtree-otodom-WS1/blob/master/files/scrapper%20gumtree%20olx%20otodom2.png?raw=true)
