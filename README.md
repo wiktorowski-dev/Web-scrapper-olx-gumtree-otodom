@@ -8,7 +8,7 @@ This project is about a creating web scraper for sites olx, gumtree, otodom.
     - https://www.gumtree.pl/
     - https://www.otodom.pl/
   - Linking to PostgreSQL
-  - All data are normalzied
+  - All data are normalized
  
 ## Project description:
  
